@@ -7,16 +7,16 @@ Python Data Structures and Algorithms Library for Programming Competition
 
 ### Sorting
 
-* [Selection Sort](/Sorting/selection_sort.py)
-* [Insertion Sort](/Sorting/insertion_sort.py)
-* [Quick Sort](/Sorting/quick_sort.py)
-* [Counting Sort](/Sorting/counting_sort.py)
-* [Python Sort Library](/Sorting/python_sort_library.py)
+* [Selection Sort] [Python] (/Sorting/selection_sort.py) / [C++](/4/1.cpp)
+* [Insertion Sort] [Python] (/Sorting/insertion_sort.py) / [C++](/4/1.cpp)
+* [Quick Sort](/Sorting/quick_sort.py) / [C++](/4/1.cpp)
+* [Counting Sort](/Sorting/counting_sort.py) / [C++](/4/1.cpp)
+* [Python Sort Library](/Sorting/python_sort_library.py) / [C++](/4/1.cpp)
 
 ### Searching
-
-* [Binary Search](/Searching/binary_search.py)
-* [Python Binary Search Library](/Searching/python_binary_search_library.py)
+ 
+* [Binary Search](/Searching/binary_search.py) / [C++](/4/1.cpp)
+* [Python Binary Search Library](/Searching/python_binary_search_library.py) 
     * [Count the number of frequencies of elements whose value is between \[left, right\] in a sorted array](/Searching/count_the_number_of_frequencies_in_a_sorted_array.py)
 * DFS
 * BFS
@@ -33,6 +33,10 @@ Python Data Structures and Algorithms Library for Programming Competition
 
 ### Data Structure
 
+* Stack
+* Binary Tree
+* B-tree
+* Heap
 * [Disjoint-Set (Union-Find)](/Data%20Structure/disjoint_set.py)
 * Tree
 * Line
